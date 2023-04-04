@@ -1,4 +1,0 @@
-# Analyse d'image
-
-## Binder
-
